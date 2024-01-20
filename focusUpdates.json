@@ -1,0 +1,8 @@
+{
+  "updates": {
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/fabrylama/focusTestFw/new/main/firmware.bin",
+      "changelog": "---",
+      "mandatory": true
+    }
+  }
