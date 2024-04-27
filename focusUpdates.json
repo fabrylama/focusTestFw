@@ -1,7 +1,7 @@
 {
   "updates": {
-      "latest-version": "115",
-      "download-url": "https://raw.githubusercontent.com/fabrylama/focusTestFw/main/app_dfu_package_115.zip",
+      "latest-version": "116",
+      "download-url": "https://raw.githubusercontent.com/fabrylama/focusTestFw/main/app_dfu_package_116.zip",
       "changelog": "---",
       "mandatory": true
     }
