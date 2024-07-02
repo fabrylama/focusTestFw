@@ -1,7 +1,7 @@
 {
   "updates": {
-      "latest-version": "100.10",
-      "download-url": "app_dfu_package_100.10.zip",
+      "latest-version": "100.12",
+      "download-url": "app_dfu_package_100.12.zip",
       "changelog": "---",
       "mandatory": true
     }
